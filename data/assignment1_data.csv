@@ -1,0 +1,184 @@
+duid,name,region,fuel_type,year,power_mwh_yearly,emissions_tco2e_yearly
+GUNNING1,Gunning Wind Farm,,,2013-14,,
+WAUBRA1,Waubra Wind Farm,,,2013-14,,
+BANIMB1,Banimboola Hydro,,,2013-14,,
+BOGONG1,Bogong Power Station,,,2013-14,,
+BURR1,Burrendong Hydro,,,2013-14,,
+CAIRN1,Cairn Curran Hydro,,,2013-14,,
+CLOVER1,Clover Hydro,,,2013-14,,
+COOPER1,Coopers Cogeneration,,,2013-14,,
+COPET1,Copeton Hydro,,,2013-14,,
+DARTM1,Dartmouth Hydro,,,2013-14,,
+EILDON1,Eildon Hydro,,,2013-14,,
+GLENB1,Glenbawn Hydro,,,2013-14,,
+GLENLF1,Glenorchy Landfill Generation,,,2013-14,,
+GUNNING1,Gunning Wind Farm,NSW,Wind,2014-15,157700.0,312.0
+WAUBRA1,Waubra Wind Farm,VIC,Wind,2014-15,683834.0,1221.0
+BANIMB1,Banimboola Hydro,VIC,Hydro,2014-15,38082.0,22.0
+BOGONG1,Bogong Power Station,VIC,Hydro,2014-15,74144.0,922.0
+BURR1,Burrendong Hydro,NSW,Hydro,2014-15,7619.0,98.0
+CLOVER1,Clover Hydro,VIC,Hydro,2014-15,42047.0,54.0
+COOPER1,Coopers Cogeneration,SA,Gas,2014-15,25463.0,19346.0
+COPET1,Copeton Hydro,NSW,Hydro,2014-15,38829.0,76.0
+DARTM1,Dartmouth Hydro,VIC,Hydro,2014-15,446691.0,727.0
+EILDON1,Eildon Hydro,VIC,Hydro,2014-15,197317.0,173.0
+GLENB1,Glenbawn Hydro,NSW,Hydro,2014-15,11737.0,16.0
+GLENLF1,Glenorchy Landfill Generation,TAS,Landfill Gas,2014-15,11977.0,746.0
+GUNNING1,Gunning Wind Farm,NSW,Wind,2015-16,165343.0,305.0
+WAUBRA1,Waubra Wind Farm,VIC,Wind,2015-16,653372.0,1043.0
+BANIMB1,Banimboola Hydro,VIC,Hydro,2015-16,47238.0,5.0
+BOGONG1,Bogong Power Station,VIC,Hydro,2015-16,73149.0,956.0
+BURR1,Burrendong Hydro,NSW,Hydro,2015-16,6788.0,49.0
+CLOVER1,Clover Hydro,VIC,Hydro,2015-16,45704.0,210.0
+COOPER1,Coopers Cogeneration,SA,Gas,2015-16,25392.0,18958.0
+COPET1,Copeton Hydro,NSW,Hydro,2015-16,12689.0,59.0
+DARTM1,Dartmouth Hydro,VIC,Hydro,2015-16,508084.0,183.0
+EILDON1,Eildon Hydro,VIC,Hydro,2015-16,153184.0,1025.0
+GLENB1,Glenbawn Hydro,NSW,Hydro,2015-16,9076.0,7.0
+GLENLF1,Glenorchy Landfill Generation,TAS,Landfill Gas,2015-16,11052.0,640.0
+CKHOME1,Cocos Keeling Islands - Home Island Generation,WA,Liquid Fuel,2015-16,2569.0,1827.0
+CKWEST1,Cocos Keeling Islands - West Island Generation,WA,Liquid Fuel,2015-16,1324.0,1031.0
+GUNNING1,Gunning Wind Farm,NSW,Wind,2016-17,156246.0,329.0
+WAUBRA1,Waubra Wind Farm,VIC,Wind,2016-17,612417.0,1209.0
+BANIMB1,Banimboola Hydro,VIC,Hydro,2016-17,3038.0,13.0
+BOGONG1,Bogong Power Station,VIC,Hydro,2016-17,116333.0,873.0
+BURR1,Burrendong Hydro,NSW,Hydro,2016-17,41502.0,43.0
+CLOVER1,Clover Hydro,VIC,Hydro,2016-17,70975.0,208.0
+COOPER1,Coopers Cogeneration,SA,Gas,2016-17,25382.0,19096.0
+COPET1,Copeton Hydro,NSW,Hydro,2016-17,28087.0,57.0
+DARTM1,Dartmouth Hydro,VIC,Hydro,2016-17,44398.0,255.0
+EILDON1,Eildon Hydro,VIC,Hydro,2016-17,102961.0,931.0
+GLENB1,Glenbawn Hydro,NSW,Hydro,2016-17,4143.0,7.0
+GLENLF1,Glenorchy Landfill Generation,TAS,Landfill Gas,2016-17,9492.0,511.0
+CKHOME1,Cocos Keeling Islands - Home Island Generation,WA,Liquid Fuel,2016-17,2511.0,1757.0
+CKWEST1,Cocos Keeling Islands - West Island Generation,WA,Liquid Fuel,2016-17,2523.0,1896.0
+GUNNING1,Gunning Wind Farm,NSW,Wind,2017-18,167150.0,249.0
+WAUBRA1,Waubra Wind Farm,VIC,Wind,2017-18,643798.0,1098.0
+BANIMB1,Banimboola Hydro,VIC,Hydro,2017-18,3080.0,63.0
+BOGONG1,Bogong Power Station,VIC,Hydro,2017-18,80801.0,934.0
+BURR1,Burrendong Hydro,NSW,Hydro,2017-18,36227.0,37.0
+CLOVER1,Clover Hydro,VIC,Hydro,2017-18,54392.0,270.0
+COOPER1,Coopers Cogeneration,SA,Gas,2017-18,23536.0,17509.0
+COPET1,Copeton Hydro,NSW,Hydro,2017-18,41257.0,44.0
+DARTM1,Dartmouth Hydro,VIC,Hydro,2017-18,56003.0,637.0
+EILDON1,Eildon Hydro,VIC,Hydro,2017-18,185794.0,680.0
+GLENB1,Glenbawn Hydro,NSW,Hydro,2017-18,19603.0,11.0
+GLENLF1,Glenorchy Landfill Generation,TAS,Landfill Gas,2017-18,9163.0,518.0
+CKHOME1,Cocos Keeling Islands - Home Island Generation,WA,Diesel,2017-18,2476.0,1735.0
+CKWEST1,Cocos Keeling Islands - West Island Generation,WA,Diesel,2017-18,2486.0,1981.0
+WEIPA1,Weipa Solar Power Station,QLD,Solar,2017-18,865.0,4.0
+GUNNING1,Gunning Wind Farm,NSW,Wind,2018-19,164669.0,239.0
+WAUBRA1,Waubra Wind Farm,VIC,Wind,2018-19,628100.0,993.0
+BANIMB1,Banimboola Hydro,VIC,Hydro,2018-19,42574.0,21.0
+BOGONG1,Bogong Power Station,VIC,Hydro,2018-19,79247.0,939.0
+BURR1,Burrendong Hydro,NSW,Hydro,2018-19,6174.0,54.0
+CLOVER1,Clover Hydro,VIC,Hydro,2018-19,35102.0,298.0
+COOPER1,Coopers Cogeneration,SA,Gas,2018-19,14219.0,10449.0
+COPET1,Copeton Hydro,NSW,Hydro,2018-19,37504.0,28.0
+DARTM1,Dartmouth Hydro,VIC,Hydro,2018-19,499814.0,179.0
+EILDON1,Eildon Hydro,VIC,Hydro,2018-19,179783.0,1463.0
+GLENB1,Glenbawn Hydro,NSW,Hydro,2018-19,2111.0,10.0
+GLENLF1,Glenorchy Landfill Generation,TAS,Landfill Gas,2018-19,1818.0,105.0
+WEIPA1,Weipa Solar Power Station,QLD,Solar,2018-19,2547.0,11.0
+COOPER1,Coopers Cogeneration,SA,Gas,2018-19,11006.0,8202.0
+CKHOME1,Cocos Keeling Islands - Home Island Generation,WA,Diesel,2018-19,2436.0,1737.0
+CKWEST1,Cocos Keeling Islands - West Island Generation,WA,Diesel,2018-19,2583.0,2051.0
+GUNNING1,Gunning Wind Farm,NSW,Wind,2019-20,176718.0,188.0
+WAUBRA1,Waubra Wind Farm,VIC,Wind,2019-20,670585.0,591.0
+BANIMB1,Banimboola Hydro,VIC,Hydro,2019-20,35051.0,47.0
+BOGONG1,Bogong Power Station,VIC,Hydro,2019-20,84009.0,664.0
+CLOVER1,Clover Hydro,VIC,Hydro,2019-20,223.0,408.0
+COPET1,Copeton Hydro,NSW,Hydro,2019-20,1216.0,1.0
+DARTM1,Dartmouth Hydro,VIC,Hydro,2019-20,287595.0,242.0
+EILDON1,Eildon Hydro,VIC,Hydro,2019-20,100421.0,193.0
+GLENB1,Glenbawn Hydro,NSW,Hydro,2019-20,2.0,11.0
+WEIPA1,Weipa Solar Power Station,QLD,Solar,2019-20,2105.0,7.0
+WILLOG1,Willogoleche Wind Farm,SA,Wind,2019-20,235798.0,204.0
+COOPER1,Coopers Cogeneration,SA,Gas,2019-20,24333.0,19168.0
+CKHOME1,Cocos Keeling Islands - Home Island Generation,WA,Diesel,2019-20,2578.0,1840.0
+CKWEST1,Cocos Keeling Islands - West Island Generation,WA,Diesel,2019-20,2441.0,1948.0
+WHROCK1,White Rock Solar Farm Pty Ltd,NSW,Solar,2019-20,35241.0,51.0
+WCHILL1,Wild Cattle Hill Wind Farm,TAS,Wind,2019-20,77039.0,176.0
+GUNNING1,Gunning Wind Farm,NSW,Wind,2020-21,159867.0,294.0
+WAUBRA1,Waubra Wind Farm,VIC,Wind,2020-21,649896.0,1027.0
+BANIMB1,Banimboola Hydro,VIC,Hydro,2020-21,2011.0,48.0
+BOGONG1,Bogong Power Station,VIC,Hydro,2020-21,87356.0,739.0
+CLOVER1,Clover Hydro,VIC,Hydro,2020-21,411.0,369.0
+COPET1,Copeton Hydro,NSW,Hydro,2020-21,9329.0,51.0
+DARTM1,Dartmouth Hydro,VIC,Hydro,2020-21,42576.0,340.0
+EILDON1,Eildon Hydro,VIC,Hydro,2020-21,111428.0,197.0
+GLENB1,Glenbawn Hydro,NSW,Hydro,2020-21,34.0,0.0
+BURR1,Burrendong Hydro,NSW,Hydro,2020-21,12029.0,1.0
+WEIPA1,Weipa Solar Power Station,QLD,Solar,2020-21,2508.0,11.0
+GLENRW1,Glenrowan West Solar Farm,VIC,Solar,2020-21,14086.0,98.0
+WILLOG1,Willogoleche Wind Farm,SA,Wind,2020-21,347539.0,260.0
+COOPER1,Coopers Cogeneration,SA,Gas,2020-21,24513.0,18674.0
+CKHOME1,Cocos Keeling Islands - Home Island Generation,WA,Diesel,2020-21,2531.0,1815.0
+CKWEST1,Cocos Keeling Islands - West Island Generation,WA,Diesel,2020-21,2578.0,2054.0
+WHROCK1,White Rock Solar Farm Pty Ltd,NSW,Solar,2020-21,37538.0,51.0
+WCHILL1,Wild Cattle Hill Wind Farm,TAS,Wind,2020-21,434124.0,239.0
+YATPOOL1,YATPOOL SOLAR FARM,VIC,Solar,2020-21,50253.0,610.0
+GUNNING1,Gunning Wind Farm,NSW,Wind,2021-22,157848.0,253.0
+WAUBRA1,Waubra Wind Farm,VIC,Wind,2021-22,649896.0,1023.0
+BANIMB1,Banimboola Hydro,VIC,Hydro,2021-22,3733.0,25.0
+BOGONG1,Bogong Power Station,VIC,Hydro,2021-22,109151.0,763.0
+BURR1,Burrendong Hydro,NSW,Hydro,2021-22,16290.0,38.0
+CLOVER1,Clover Hydro,VIC,Hydro,2021-22,51252.0,220.0
+COPET1,Copeton Hydro,NSW,Hydro,2021-22,20485.0,57.0
+DARTM1,Dartmouth Hydro,VIC,Hydro,2021-22,54868.0,276.0
+EILDON1,Eildon Hydro,VIC,Hydro,2021-22,90384.0,100.0
+GLENB1,Glenbawn Hydro,NSW,Hydro,2021-22,0.0,9.0
+WILLOG1,Willogoleche Wind Farm,SA,Wind,2021-22,380113.0,234.0
+WEIPA1,Weipa Solar Power Station,QLD,Solar,2021-22,2421.0,9.0
+COOPER1,Coopers Cogeneration,SA,Gas,2021-22,15949.0,12802.0
+CKHOME1,Cocos Keeling Islands - Home Island Generation,WA,Diesel,2021-22,2437.0,1703.0
+CKWEST1,Cocos Keeling Islands - West Island Generation,WA,Diesel,2021-22,2669.0,2150.0
+WHROCK1,White Rock Solar Farm Pty Ltd,NSW,Solar,2021-22,33086.0,51.0
+WCHILL1,Wild Cattle Hill Wind Farm,TAS,Wind,2021-22,433196.0,253.0
+WINTON1,Winton Solar Farm,VIC,Solar,2021-22,156523.0,31.0
+GLENRW1,Glenrowan West Solar Farm,VIC,Solar,2021-22,206679.0,843.0
+YATPOOL1,YATPOOL SOLAR FARM,VIC,Solar,2021-22,138160.0,392.0
+GUNNING1,Gunning Wind Farm,NSW,Wind,2022-23,139793.0,391.0
+WAUBRA1,Waubra Wind Farm,VIC,Wind,2022-23,580257.0,1139.0
+BANIMB1,Banimboola Hydro,VIC,Hydro,2022-23,29714.0,7.0
+BOGONG1,Bogong Power Station,VIC,Hydro,2022-23,109585.0,718.0
+BURR1,Burrendong Hydro,NSW,Hydro,2022-23,4624.0,31.0
+CLOVER1,Clover Hydro,VIC,Hydro,2022-23,56335.0,164.0
+COPET1,Copeton Hydro,NSW,Hydro,2022-23,46275.0,47.0
+DARTM1,Dartmouth Hydro,VIC,Hydro,2022-23,284447.0,319.0
+EILDON1,Eildon Hydro,VIC,Hydro,2022-23,291020.0,39.0
+GLENB1,Glenbawn Hydro,NSW,Hydro,2022-23,0.0,9.0
+WILLOG1,Willogoleche Wind Farm,SA,Wind,2022-23,352394.0,218.0
+WEIPA1,Weipa Solar Power Station,QLD,Solar,2022-23,2163.0,8.0
+ROCKY1,Rocky Point Sugar Mill Cogeneration,QLD,Bagasse,2022-23,32467.0,2538.0
+CKHOME1,Cocos Keeling Islands - Home Island Generation,WA,Diesel,2022-23,2278.0,1596.0
+CKWEST1,Cocos Keeling Islands - West Island Generation,WA,Diesel,2022-23,2632.0,2433.0
+WESTWY1,West Wyalong SF,NSW,Solar,2022-23,61261.0,622.0
+WCHILL1,Wild Cattle Hill Wind Farm,TAS,Wind,2022-23,428260.0,268.0
+WINTON1,Winton Solar Farm,VIC,Solar,2022-23,150661.0,33.0
+GLENRW1,Glenrowan West Solar Farm,VIC,Solar,2022-23,215292.0,633.0
+WOOLOO1,Woolooga SF,QLD,Solar,2022-23,212328.0,2391.0
+YATPOOL1,YATPOOL SOLAR FARM,VIC,Solar,2022-23,153049.0,387.0
+GUNNING1,Gunning Wind Farm,NSW,Wind,2023-24,136502.0,268.0
+WAUBRA1,Waubra Wind Farm,VIC,Wind,2023-24,543046.0,1300.0
+BANIMB1,Banimboola Hydro,VIC,Hydro,2023-24,25490.0,13.0
+BOGONG1,Bogong Power Station,VIC,Hydro,2023-24,53819.0,698.0
+BURR1,Burrendong Hydro,NSW,Hydro,2023-24,44754.0,48.0
+CLOVER1,Clover Hydro,VIC,Hydro,2023-24,43317.0,197.0
+COPET1,Copeton Hydro,NSW,Hydro,2023-24,50533.0,39.0
+DARTM1,Dartmouth Hydro,VIC,Hydro,2023-24,275462.0,120.0
+EILDON1,Eildon Hydro,VIC,Hydro,2023-24,228691.0,28.0
+GLENB1,Glenbawn Hydro,NSW,Hydro,2023-24,0.0,8.0
+WANDOAN1,Wandoan Solar Farm 1,QLD,Solar,2023-24,243186.0,1570.0
+ROCKY1,Rocky Point Sugar Mill Cogeneration,QLD,Bagasse,2023-24,48341.0,1681.0
+CKHOME1,Cocos Keeling Islands - Home Island Generation,WA,Diesel,2023-24,2631.0,1841.0
+CKWEST1,Cocos Keeling Islands - West Island Generation,WA,Diesel,2023-24,2877.0,2209.0
+WEIPA1,Weipa Solar Power Station,QLD,Solar,2023-24,9243.0,18.0
+WESTWY1,West Wyalong SF,NSW,Solar,2023-24,189583.0,570.0
+WHROCK1,White Rock Solar Farm Pty Ltd,NSW,Solar,2023-24,37403.0,46.0
+WCHILL1,Wild Cattle Hill Wind Farm,TAS,Wind,2023-24,456456.0,237.0
+WILLOG1,Willogoleche Wind Farm,SA,Wind,2023-24,302938.0,207.0
+WINTON1,Winton Solar Farm,VIC,Solar,2023-24,147966.0,33.0
+GLENRW1,Glenrowan West Solar Farm,VIC,Solar,2023-24,212912.0,603.0
+WOOLOO1,Woolooga SF,QLD,Solar,2023-24,329373.0,3717.0
+YATPOOL1,YATPOOL SOLAR FARM,VIC,Solar,2023-24,128062.0,361.0
