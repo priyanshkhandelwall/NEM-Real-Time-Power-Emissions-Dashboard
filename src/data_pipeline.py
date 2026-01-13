@@ -24,7 +24,7 @@ warnings.filterwarnings('ignore', category=InsecureRequestWarning)
 # ================================
 # CONFIG
 # ================================
-API_KEY = "oe_3Zb7SiaiiqQN5iK4kCeWzmBj"  # ← keep secret in env in real use
+API_KEY = ""  # ← keep secret in env in real use
 BASE_URL = "https://api.openelectricity.org.au/v4"
 NEM_REGIONS = ["nsw", "qld", "vic", "sa", "tas"]
 FACILITY_METRICS = ["power", "emissions"]
@@ -489,3 +489,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
